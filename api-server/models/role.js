@@ -12,7 +12,7 @@ const roleSchema =  new Schema({
 module.exports = mongoose.model('Role',roleSchema);
 
 ////
-// const Role = mongoose.model('Role',new mongoose.Schema({
+// /// const Role = mongoose.model('Role',new mongoose.Schema({
 
 // }))
 // module.exports = Role;
